@@ -1,0 +1,107 @@
+[20240425 16:23:06:885][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.1 with PID 10608 (C:\Users\dnu05\sprintProjects\html-java\target\classes started by dnu05 in C:\Users\dnu05\sprintProjects\html-java)
+[20240425 16:23:06:886][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240425 16:23:06:919][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[20240425 16:23:06:920][INFO ][o.s.b.d.e.DevToolsPropertyDefaultsPostProcessor] For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[20240425 16:23:07:615][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240425 16:23:07:620][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240425 16:23:07:621][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240425 16:23:07:621][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240425 16:23:07:659][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240425 16:23:07:659][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 739 ms
+[20240425 16:23:07:916][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240425 16:23:07:926][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240425 16:23:07:943][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240425 16:23:07:948][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 1.455 seconds (process running for 2.072)
+[20240425 16:23:11:363][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 4 class path changes (0 additions, 3 deletions, 1 modification)
+[20240425 16:23:11:367][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-4242"]
+[20240425 16:23:11:443][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.1 with PID 10608 (C:\Users\dnu05\sprintProjects\html-java\target\classes started by dnu05 in C:\Users\dnu05\sprintProjects\html-java)
+[20240425 16:23:11:443][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240425 16:23:11:611][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240425 16:23:11:611][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240425 16:23:11:611][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240425 16:23:11:611][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240425 16:23:11:630][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240425 16:23:11:630][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 183 ms
+[20240425 16:23:11:685][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240425 16:23:11:689][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240425 16:23:11:692][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240425 16:23:11:693][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.286 seconds (process running for 5.816)
+[20240425 16:23:11:694][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20240425 16:23:13:115][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 3 class path changes (3 additions, 0 deletions, 0 modifications)
+[20240425 16:23:13:116][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-4242"]
+[20240425 16:23:13:175][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.1 with PID 10608 (C:\Users\dnu05\sprintProjects\html-java\target\classes started by dnu05 in C:\Users\dnu05\sprintProjects\html-java)
+[20240425 16:23:13:175][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240425 16:23:13:309][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240425 16:23:13:310][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240425 16:23:13:310][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240425 16:23:13:310][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240425 16:23:13:325][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240425 16:23:13:325][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 148 ms
+[20240425 16:23:13:374][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240425 16:23:13:377][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240425 16:23:13:380][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240425 16:23:13:382][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.235 seconds (process running for 7.505)
+[20240425 16:23:13:382][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20240425 16:23:24:266][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[20240425 16:23:24:266][INFO ][o.s.web.servlet.DispatcherServlet] Initializing Servlet 'dispatcherServlet'
+[20240425 16:23:24:267][INFO ][o.s.web.servlet.DispatcherServlet] Completed initialization in 0 ms
+[20240425 16:24:10:821][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[20240425 16:24:10:822][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-4242"]
+[20240425 16:24:10:883][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.1 with PID 10608 (C:\Users\dnu05\sprintProjects\html-java\target\classes started by dnu05 in C:\Users\dnu05\sprintProjects\html-java)
+[20240425 16:24:10:883][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240425 16:24:11:030][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240425 16:24:11:030][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240425 16:24:11:031][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240425 16:24:11:031][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240425 16:24:11:049][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240425 16:24:11:049][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 165 ms
+[20240425 16:24:11:090][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240425 16:24:11:093][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240425 16:24:11:096][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240425 16:24:11:097][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.24 seconds (process running for 65.221)
+[20240425 16:24:11:098][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20240425 16:25:22:645][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[20240425 16:25:22:647][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-4242"]
+[20240425 16:25:22:704][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.1 with PID 10608 (C:\Users\dnu05\sprintProjects\html-java\target\classes started by dnu05 in C:\Users\dnu05\sprintProjects\html-java)
+[20240425 16:25:22:704][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240425 16:25:22:838][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240425 16:25:22:838][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240425 16:25:22:838][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240425 16:25:22:839][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240425 16:25:22:856][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240425 16:25:22:856][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 151 ms
+[20240425 16:25:22:902][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240425 16:25:22:905][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240425 16:25:22:908][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240425 16:25:22:909][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.227 seconds (process running for 137.033)
+[20240425 16:25:22:909][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20240425 16:25:39:561][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 1 class path change (0 additions, 0 deletions, 1 modification)
+[20240425 16:25:39:562][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-4242"]
+[20240425 16:25:39:620][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.1 with PID 10608 (C:\Users\dnu05\sprintProjects\html-java\target\classes started by dnu05 in C:\Users\dnu05\sprintProjects\html-java)
+[20240425 16:25:39:620][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240425 16:25:39:751][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240425 16:25:39:753][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240425 16:25:39:753][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240425 16:25:39:753][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240425 16:25:39:767][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240425 16:25:39:767][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 145 ms
+[20240425 16:25:39:801][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240425 16:25:39:804][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240425 16:25:39:807][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240425 16:25:39:808][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.213 seconds (process running for 153.931)
+[20240425 16:25:39:809][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
+[20240425 16:26:11:477][INFO ][o.s.b.d.a.LocalDevToolsAutoConfiguration$RestartingClassPathChangeChangedEventListener] Restarting due to 9 class path changes (0 additions, 0 deletions, 9 modifications)
+[20240425 16:26:11:478][INFO ][o.apache.coyote.http11.Http11NioProtocol] Stopping ProtocolHandler ["http-nio-4242"]
+[20240425 16:26:11:540][INFO ][com.example.demo.DemoApplication] Starting DemoApplication using Java 21.0.1 with PID 10608 (C:\Users\dnu05\sprintProjects\html-java\target\classes started by dnu05 in C:\Users\dnu05\sprintProjects\html-java)
+[20240425 16:26:11:540][INFO ][com.example.demo.DemoApplication] No active profile set, falling back to 1 default profile: "default"
+[20240425 16:26:11:675][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat initialized with port 4242 (http)
+[20240425 16:26:11:675][INFO ][o.apache.coyote.http11.Http11NioProtocol] Initializing ProtocolHandler ["http-nio-4242"]
+[20240425 16:26:11:675][INFO ][o.apache.catalina.core.StandardService] Starting service [Tomcat]
+[20240425 16:26:11:676][INFO ][org.apache.catalina.core.StandardEngine] Starting Servlet engine: [Apache Tomcat/10.1.16]
+[20240425 16:26:11:691][INFO ][o.a.c.c.C.[Tomcat].[localhost].[/]] Initializing Spring embedded WebApplicationContext
+[20240425 16:26:11:691][INFO ][o.s.b.w.s.c.ServletWebServerApplicationContext] Root WebApplicationContext: initialization completed in 150 ms
+[20240425 16:26:11:730][INFO ][o.s.b.d.a.OptionalLiveReloadServer] LiveReload server is running on port 35729
+[20240425 16:26:11:733][INFO ][o.apache.coyote.http11.Http11NioProtocol] Starting ProtocolHandler ["http-nio-4242"]
+[20240425 16:26:11:736][INFO ][o.s.b.w.embedded.tomcat.TomcatWebServer] Tomcat started on port 4242 (http) with context path ''
+[20240425 16:26:11:737][INFO ][com.example.demo.DemoApplication] Started DemoApplication in 0.229 seconds (process running for 185.86)
+[20240425 16:26:11:737][INFO ][o.s.b.d.a.ConditionEvaluationDeltaLoggingListener] Condition evaluation unchanged
